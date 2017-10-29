@@ -7,6 +7,4 @@ $ npm install
 $ ionic serve
 ```
 
-![Weather app](https://imgur.com/K4vtBbn "Weather app")
-
-
+![alt text](https://i.imgur.com/K4vtBbn.png "Weather app")
